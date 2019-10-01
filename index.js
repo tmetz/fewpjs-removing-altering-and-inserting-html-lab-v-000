@@ -1,6 +1,6 @@
 // Write your code here!
 
-let mainEl = document.getElementById("main#main");
+let mainEl = document.getElementById("main");
 mainEl.remove();
 const newHeader = document.createElement('h1');
 newHeader.setAttribute("id", "victory");
